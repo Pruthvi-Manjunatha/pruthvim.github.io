@@ -1,15 +1,15 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=HjK8Hz0AAAAJ&hl=en&oi=ao
 
   - title: "Talks"
-    url: /talks/    
+    url: https://www.youtube.com/@PruthviManjunatha/videos   
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Research"
     url: /portfolio/
         
   #- title: "Blog Posts"
